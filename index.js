@@ -1,1 +1,1 @@
-add(x,y) {return x + y}
+add(a,b) {return a + b}
